@@ -39,13 +39,9 @@ Here are some of my interactive dashboards and web-based projects:
 
 ### Power BI Dashboard
 [![Power BI Dashboard](https://your-image-or-gif-link.com/powerbi.gif)](https://your-live-powerbi-link.com)
-<!-- Replace with your GIF/screenshot and link -->
 ### Web-based Analytics Project
 [![Web App Demo](https://your-image-or-gif-link.com/webapp.gif)](https://your-live-webapp-link.com)
-<!-- Replace with your GIF/screenshot and link -->
-
 ---
-
 ## 📫 Contact Me
 
 - 📧 Email: [arun.jain271102003@gmail.com](mailto:arun.jain271102003@gmail.com)
