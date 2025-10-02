@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Jain 
 
-**Data Analyst | Power BI | SQL | Excel | Python | HTML | CSS | R**
+**Web Developer | Data Analyst | Power BI | SQL | Excel | Python | HTML | CSS | R**
 
 ---
 
@@ -16,9 +16,9 @@
 ---
 
 ## 📊 About Me
-
+- passionate about learning new skilles and work Professional.
 - Enthusiastic Data Analyst skilled in extracting actionable insights from data.
-- Experienced with Power BI, SQL, Excel, Python, R, and web technologies (HTML/CSS).
+- Experienced with Power BI, SQL, Excel, Python and web technologies (HTML/CSS).
 - Passionate about transforming data into impactful visual stories.
 
 ---
@@ -38,12 +38,9 @@
 Here are some of my interactive dashboards and web-based projects:
 
 ### Power BI Dashboard
-
 [![Power BI Dashboard](https://your-image-or-gif-link.com/powerbi.gif)](https://your-live-powerbi-link.com)
 <!-- Replace with your GIF/screenshot and link -->
-
 ### Web-based Analytics Project
-
 [![Web App Demo](https://your-image-or-gif-link.com/webapp.gif)](https://your-live-webapp-link.com)
 <!-- Replace with your GIF/screenshot and link -->
 
@@ -55,6 +52,7 @@ Here are some of my interactive dashboards and web-based projects:
 - 💼 LinkedIn: [Arun Jain](https://www.linkedin.com/in/arun-jain-115271225/)
 
 ---
+## 📄 Certificates
 
 <!-- Feel free to add sections for Certifications, Blogs, or Portfolio -->
 
