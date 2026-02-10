@@ -51,6 +51,6 @@ Web App Demo
 
 ---
 ## 📄 Certificates
-
+AMI-CISCO connect certificate.pdf
 <!-- Feel free to add sections for Certifications, Blogs, or Portfolio -->
 
