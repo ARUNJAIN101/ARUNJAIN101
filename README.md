@@ -52,5 +52,6 @@ Web App Demo
 ---
 ## 📄 Certificates
 AMI-CISCO connect certificate.pdf
+https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/AMI-CISCO%20connect%20certificate.pdf
 <!-- Feel free to add sections for Certifications, Blogs, or Portfolio -->
 
