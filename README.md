@@ -38,11 +38,11 @@
 Here are some of my interactive dashboards and web-based projects:
 
 ### Power BI Dashboard
-Power BI Dashboard https://your-image-or-gif-link.com/powerbi.gif
+Power BI Dashboard 
 https://your-live-powerbi-link.com
 ### Web-based Analytics Project
-Web App Demo https://your-image-or-gif-link.com/webapp.gif
-https://your-live-webapp-link.com
+Web App Demo
+ https://your-live-webapp-link.com
 ---
 ## 📫 Contact Me
 
