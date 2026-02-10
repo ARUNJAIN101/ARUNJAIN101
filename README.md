@@ -51,7 +51,15 @@ Web App Demo
 
 ---
 ## 📄 Certificates
-AMI-CISCO connect certificate.pdf
+AMI-CISCO certificate:
 https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/AMI-CISCO%20connect%20certificate.pdf
+Coding Ninjas Excellence certificate:
+https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/Certificate%20of%20Excellence(Coding%20Ninjas).pdf
+IIT Bombay Git: 
+https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/IIT-BOMBAY%20GIT%20CERTIFICATE.pdf
+IIT Bombay Python: 
+https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/IIT%20Bombay%20PYTHON-Certificate%20(1).pdf
+NPTL Java:
+https://github.com/ARUNJAIN101/Certificates/blob/3c9479cca04473b08478be776f33a0f86393414b/Nptel%20Java_certificate.pdf
 <!-- Feel free to add sections for Certifications, Blogs, or Portfolio -->
 
