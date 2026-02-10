@@ -10,8 +10,8 @@
 
 ## 🚀 Dynamic Stats & Badges
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUNJAIN101&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ARUNJAIN101&label=Profile%20views&color=0e75b6&style=flat)
+GitHub Stats:https://github-readme-stats.vercel.app/api?username=ARUNJAIN101&show_icons=true&theme=radical
+Profile Views:https://komarev.com/ghpvc/?username=ARUNJAIN101&label=Profile%20views&color=0e75b6&style=flat
 
 ---
 
@@ -25,11 +25,12 @@
 
 ## 🛠️ Skills
 
-- **Power BI**: Building interactive dashboards & reports
-- **SQL**: Data extraction, transformation & query optimization
-- **Excel**: Advanced analytics, pivot tables, automation
-- **Python & R**: Data wrangling, statistical analysis, visualization
-- **HTML/CSS**: Data-driven web pages & dashboards
+- **ASP.Net**: Working with .Net Technology in Company.
+- **SQL**: Data extraction, transformation & query optimization.
+-  **Power BI**: Building interactive dashboards & reports.
+- **Excel**: Advanced analytics, pivot tables, automation.
+- **Python & R**: Data wrangling, statistical analysis, visualization.
+- **HTML/CSS**: Data-driven web pages & dashboards.
 
 ---
 
