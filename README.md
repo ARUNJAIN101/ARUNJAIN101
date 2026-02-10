@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Jain 
 
-**Web Developer | Data Analyst | Power BI | SQL | Excel | Python | HTML | CSS | R**
+**Web Developer | Data Analyst | Power BI | SQL | Excel | Python | HTML | CSS | ASP.Net | R**
 
 ---
 
