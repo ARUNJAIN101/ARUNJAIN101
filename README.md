@@ -11,6 +11,7 @@
 ## 🚀 Dynamic Stats & Badges
 
 GitHub Stats:https://github-readme-stats.vercel.app/api?username=ARUNJAIN101&show_icons=true&theme=radical
+**
 Profile Views:https://komarev.com/ghpvc/?username=ARUNJAIN101&label=Profile%20views&color=0e75b6&style=flat
 
 ---
@@ -40,10 +41,10 @@ Here are some of my interactive dashboards and web-based projects:
 
 ### Power BI Dashboard
 Power BI Dashboard 
-https://your-live-powerbi-link.com
+
 ### Web-based Analytics Project
 Web App Demo
- https://your-live-webapp-link.com
+ [https://your-live-webapp-link.com](https://ryouko.netlify.app/)
 ---
 ## 📫 Contact Me
 
